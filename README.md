@@ -162,7 +162,7 @@ git push
 2. Push 完成後，頁面通常會出現 **Compare & pull request**；點選它。若沒有出現，前往 **Pull requests** → **New pull request**。
 3. 確認 **base** 是要合併進去的主要分支（通常是 `main`），**compare** 是自己的工作分支。
 4. 填寫標題和說明（簡單寫）。
-5. 按 **Create pull request**，等我按同意。
+5. 按 **Create pull request**，沒意外會自己合併好。
 
 PR 建立後若還要修改，回到同一個分支修改、`git add`、`git commit`、`git push`；新提交會自動出現在同一個 PR，不必再開一個。
 
